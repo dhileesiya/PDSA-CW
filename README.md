@@ -8,7 +8,7 @@ A java-based inventory management system that uses equations for demand forecast
 - 📊 Demand forecasting using ML models
 - 📈 Sales analytics and reporting
 - 🔔 Low stock alerts and reorder points
-- 💾 CSV-based data storage
+- 💾 PDF-based data storage
 
 Installation
 
